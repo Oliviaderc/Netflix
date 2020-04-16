@@ -1,0 +1,15 @@
+#appMountPoint {
+	background-color: #000000;
+}
+
+#appMountPoint {
+-webkit-font-smoothing: antialiased;
+background-color: rgb(0, 0, 0);
+color: rgb(51, 51, 51);
+direction: ltr;
+display: block;
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 16px;
+height: 3992.328125px;
+width: 593px;
+}

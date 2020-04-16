@@ -1,0 +1,21 @@
+.concord-img-wrapper {
+	background-attachment: scroll;
+	background-clip: border-box;
+	background-color: rgba(0, 0, 0, 0.4);
+	background-image: linear-gradient(-225deg,rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.2) 50%), url(../../images/background.jpg);
+	height: 672.59375px;
+}
+.hero-card.vlv .concord-img {
+height: 100%;
+width: auto;
+object-fit: cover;
+background-image: linear-gradient(to top, black 0%, transparent 30%);
+}
+
+.hero-card.concord-img-gradient{
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+}

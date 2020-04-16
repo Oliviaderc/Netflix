@@ -1,0 +1,44 @@
+.authLinks.redButton {
+background-color: #e50914;
+line-height: normal;
+padding: 7px 17px;
+font-weight: 400;
+font-size: 1rem;
+float: right;
+}
+
+.authLinks {
+color: #ffffff;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px;
+margin-top: 0.5rem;
+}
+
+.email-form {
+display: -webkit-box;
+display: -webkit-flex;
+display: -moz-box;
+display: -ms-flexbox;
+display: flex;
+-webkit-box-orient: vertical;
+-webkit-box-direction: normal;
+-webkit-flex-direction: column;
+-moz-box-orient: vertical;
+-moz-box-direction: normal;
+-ms-flex-direction: column;
+flex-direction: column;
+}
+
+form {
+display: block;
+margin-top: 0em;
+}
+
+h3 .email-form-title {
+padding: 0 5%;
+max-width: 450px;
+margin: 0 auto;
+font-weight: 18px;
+text-align: center;
+}

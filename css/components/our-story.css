@@ -1,0 +1,86 @@
+.our-story-cards {
+margin: 0 auto;
+-webkit-font-smoothing: antialiased;
+color: rgb(51, 51, 51);
+direction: ltr;
+display: block;
+/*font-family: "Netflix Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+font-size: 16px;
+height: 3240.84375px;
+margin-bottom: 0px;
+margin-left: 0px;
+margin-right: 0px;
+margin-top: 0px;
+width: 469px;
+}
+
+.our-story-card {
+position: relative;
+border-bottom: 8px solid #222;
+padding: 50px 5%;
+margin-bottom: 0;
+background: transparent;
+color: white;
+background-color: black;
+}
+
+.our-story-card-subtitle {
+font-size: 1.125rem;
+font-weight: 1.125rem;
+}
+
+
+.our-story-card-background {
+z-index: 0;
+position: absolute;
+top: -70px;
+left: 0;
+right: 0;
+bottom: 0;
+overflow: hidden;
+}
+
+.hero-card .our-story-card-text {
+max-width: 950px;
+padding: 30px 0;
+position: relative;
+width: 100%;
+margin: 0 auto;
+text-align: center;
+z-index: 1;
+}
+
+.hero-card .our-story-card-text h1, .hero-card .our-story-card-text h2 {
+max-width: 640px;
+margin: 0 auto;
+}
+
+.hero-card .our-story-card-text .our-story-card-subtitle {
+margin: 1rem auto;
+}
+
+.email-form-title {
+padding: 0 10%;
+max-width: 450px;
+margin: 0 auto;
+font-weight: normal;
+}
+
+.animation-card {
+    background-color: black;
+}
+.animation-card.watchOnTv .our-story-card-text {
+margin: 0;
+}
+
+.animation-card .our-story-card-img-container {
+width: 100%;
+max-width: 600px;
+margin-top: 1em;
+}
+
+
+
+
+
+
